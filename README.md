@@ -1,0 +1,1 @@
+[![.NET](https://github.com/pigeonmaster420/OmSTU-22-23-4/actions/workflows/dotnet.yml/badge.svg?branch=endmovecommand&event=workflow_run)](https://github.com/pigeonmaster420/OmSTU-22-23-4/actions/workflows/dotnet.yml)
